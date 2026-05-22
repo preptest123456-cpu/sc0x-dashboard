@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sc0x-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/sc0x-dashboard/static/js/main.b682f1bc.js",
+    "static/js/453.ed45be2b.chunk.js": "/sc0x-dashboard/static/js/453.ed45be2b.chunk.js",
+    "index.html": "/sc0x-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/sc0x-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.b682f1bc.js.map": "/sc0x-dashboard/static/js/main.b682f1bc.js.map",
+    "453.ed45be2b.chunk.js.map": "/sc0x-dashboard/static/js/453.ed45be2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b682f1bc.js"
+  ]
+}
